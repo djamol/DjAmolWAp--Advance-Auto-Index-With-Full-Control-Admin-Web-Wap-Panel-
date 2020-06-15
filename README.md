@@ -1,6 +1,6 @@
 djamolwap
 =========
-http://djamolwap.googlecode.com/files/DjAmolWap10.4v.zip
+https://github.com/djamol/DjAmolWAp-Advance-Auto-Index-With-Full-Control-Admin-Web-Wap-Panel
 
 Create Database
 Mysql Or Another Software for php
